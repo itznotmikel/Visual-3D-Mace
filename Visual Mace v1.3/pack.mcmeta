@@ -1,0 +1,9 @@
+{
+    "pack": {
+        "pack_format": 55,
+    "min_format": 55,
+    "max_format": 69,
+		"supported_formats": {"min_inclusive": 55, "max_inclusive": 69},
+    "description": "§73D Mace + Visual Enchantments by \u00a7bitznotmikel"
+  }
+}
